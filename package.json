@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/maslowproject/how-to-npm/issues"
   },
-  "homepage": "https://github.com/maslowproject/how-to-npm#readme"
+  "homepage": "https://github.com/maslowproject/how-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
