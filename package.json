@@ -1,0 +1,22 @@
+{
+  "name": "@maslowproject/dev",
+  "version": "1.0.0",
+  "description": "This is for a tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maslowproject/how-to-npm.git"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "Josh Amaku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maslowproject/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/maslowproject/how-to-npm#readme"
+}
